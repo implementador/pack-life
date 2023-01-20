@@ -3,7 +3,7 @@
 {
     'name':'Lista Negra Sat', 
     'category':"",
-    'author': 'IT Admin',
+    'author': 'Lava Studio',
     'version': '15.01',
     'description' :'''Add One Field in res.partner.
         Create Automated Function That Runs Every Day.
