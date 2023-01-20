@@ -10,8 +10,8 @@
                     OpenSSL - sudo apt-get install python3-openssl
                     ''',
     'category':     'Accounting',
-    'author':       'IT Admin',
-    'website':      'www.itadmin.com.mx',
+    'author':       'Lava Studio',
+    'website':      'www.lava.mx',
     'depends':      [
                     'account','l10n_mx_edi','sale_management','purchase','account_accountant'
                     ],
